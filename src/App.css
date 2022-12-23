@@ -1,0 +1,21 @@
+body {
+    margin-top: 300px;
+    max-width: max-content;
+    margin: auto;
+    margin-left: 250px;
+}
+
+.btn-group {
+   margin-left: 775px;
+   margin-top: 0px;
+}
+
+.container {
+    display: flex;
+    position: absolute;
+    margin-left: 20px;
+}
+
+.text {
+    margin-left: 370px;
+}
